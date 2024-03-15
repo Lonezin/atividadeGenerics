@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\bin\Debug\net8.0\ListGeneric.exe
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\bin\Debug\net8.0\ListGeneric.deps.json
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\bin\Debug\net8.0\ListGeneric.runtimeconfig.json
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\bin\Debug\net8.0\ListGeneric.dll
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\bin\Debug\net8.0\ListGeneric.pdb
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.AssemblyInfo.cs
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.dll
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\refint\ListGeneric.dll
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.pdb
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ListGeneric.genruntimeconfig.cache
+C:\Users\lonez\Desktop\GarotoDePrograma\ListGeneric\obj\Debug\net8.0\ref\ListGeneric.dll
